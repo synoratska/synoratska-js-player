@@ -7,4 +7,4 @@ Just simple js player with a few favorite songs :)
 You can pause or rewind the songs forward or back.
 
 
-[![template.png](https://i.postimg.cc/mkTc49Pm/template.png)](https://postimg.cc/jwkqQLQf)
+[![image.png](https://i.postimg.cc/9fQVkNN3/image.png)](https://postimg.cc/FY82dG4G)
